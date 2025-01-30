@@ -2,12 +2,11 @@
 Repo para manter meu progresso com testes unitários, conceitos e aplicação
 
 #API usada
-https://swapi.dev/
+- [API](https://swapi.dev/api/)
 
 #Ferramentas usadas
 
-- Jest
-- Supertest
-- JS
+- Jest - Testes unitários
+- Supertest - Permite interação com APIs
 
 
